@@ -1,2 +1,3 @@
 class Rectangle:
-	pass
+	def __dict__:
+		return {}
